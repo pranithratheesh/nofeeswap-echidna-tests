@@ -1,0 +1,10 @@
+corpusDir: './corpus/price/'
+testMode: assertion
+coverage: true
+solcArgs: "--evm-version cancun --optimize-runs 200"
+testLimit: 100000
+shrinkLimit: 10000
+propMaxGas: 0xffffffffffffffff
+testMaxGas: 0xffffffffffffffff
+
+
