@@ -1,6 +1,6 @@
 # NoFeeSwap Echidna Fuzz Tests
 
-Echidna assertion-mode fuzz tests for NoFeeSwap core contracts.
+Echidna assertion mode fuzz tests for NoFeeSwap core contracts.
 
 ## Question 1 - Price.sol
 
